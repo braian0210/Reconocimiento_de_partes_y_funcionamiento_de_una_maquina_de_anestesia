@@ -236,10 +236,11 @@ PARTE C
 
 • Pregunta 1: ¿Qué tipos de anestésicos son los más usados en cirugía?
 
-
+Entre los inhalados, los más usados son el óxido nitroso, el isoflurano, el sevoflurano y el desflurano, y la fuente todavía lista también el halotano (18). Todos producen amnesia e inmovilidad, y el óxido nitroso además calma el dolor. Los líquidos volátiles necesitan vaporizador, mientras que el óxido nitroso ya es un gas (18). Estos agentes se suelen combinar con anestésicos por la vena (18). Por la vena hay otros grupos: la literatura habla de cinco clases de fármacos en anestesia general, que son los anestésicos intravenosos, los inhalados, los sedantes intravenosos, los opioides sintéticos y los relajantes musculares (19). La forma más común de lograr una anestesia general es empezar con medicamentos por la vena y mantener con un anestésico volátil (19). El propofol es un buen ejemplo del lado intravenoso, porque se usa para inducir la anestesia, para mantenerla y para sedar al paciente (20). Aparte están los anestésicos locales, que bloquean los nervios en la piel, en nervios periféricos o en el espacio de la columna, y su efecto dura desde 30 minutos hasta 12 horas o más según el sitio y el fármaco. Entre los más conocidos están la lidocaína, la bupivacaína y la ropivacaína (21). La elección final depende del paciente y del procedimiento (22). Las fuentes que revisamos listan los fármacos más usados, pero no dan porcentajes de uso, así que no podemos ordenarlos con cifras.
 
 • Pregunta 2: ¿Qué diferencias plantea el modelo EX-35 con respecto al EX20?
 
+Las dos máquinas se parecen en su estructura: pesan menos de 120 kg, miden 1375 mm de alto, 880 mm de ancho con el circuito montado y 620 mm de fondo, y tienen dos posiciones de vaporizador (11)(23). Las diferencias están en la ventilación, el monitoreo, la pantalla y la batería, ademas, que el volumen mínimo más bajo y los modos adicionales amplían los pacientes y las situaciones que la máquina puede atender, y el módulo de gases permite vigilar la concentración del anestésico durante la cirugía (23)(24). Para cerrar la comparación con datos propios haría falta pedir la hoja técnica vigente al distribuidor de la unidad, L.A.S Electromedicina, que aparece en la placa de datos (Fig. 11).
 
 
 # Análisis y Discusión de Resultados
@@ -248,14 +249,17 @@ Análisis 1: Revise sobre las fallas que pueden presentarse en el
 funcionamiento de alguno de los subsistemas que componen la máquina de
 anestesia, así como lo que las produce.
 
-
+Como la máquina estaba apagada, revisamos qué fallas puede avisar según el anexo D del manual del EX-35Vet (10), que es de la misma familia del EX-20. En el ventilador y el circuito respiratorio están las fallas más serias: presión de vía aérea alta o negativa, apnea y FiO2 baja, además de fugas, recipiente del absorbente sin asegurar, circuito sin montar, sensores de flujo fuera de rango y sensor de oxígeno sin calibrar. En la parte eléctrica las causas son un corte de luz que pasa la máquina a la batería y un voltaje de batería bajo, y en la CPU un ventilador de enfriamiento lento (10). Casi todas estas causas son de montaje, suministro o desgaste, y la literatura coincide en que pesa más el manejo del usuario que el daño del equipo (3)(6). Por eso la lista de verificación antes de usar la máquina ayuda a evitarlas (Fig. 4) (6). Falta confirmar estos mensajes en el manual impreso del EX-20 y, si el docente lo autoriza, revisar el historial de alarmas de la máquina encendida.
 
 • Análisis 2: Ordene cada subsistema de la máquina en función del número
 de fallas asociadas a este (de mayor a menor,) de acuerdo con la
 información suministrada por el manual de operación.
 
 
-
 # Conclusión 
+
+Según lo que revisamos, las fallas más comunes al operar una máquina de anestesia tienen cuatro causas probables. La primera son las fugas y el montaje del circuito: un recipiente de absorbente sin asegurar, un circuito sin montar, una rama desconectada o un vaporizador mal cerrado (6)(10). La segunda es el suministro y la medición de gas, es decir, un cilindro o una línea de oxígeno que falla, baja presión del gas que mueve el fuelle, sensores de flujo fuera de rango y un sensor de oxígeno sin calibrar (10). La tercera es el desgaste de lo que se consume, como el absorbente de CO2 agotado, que deja pasar CO2 al paciente (6)(15). La cuarta es la energía, porque un corte de luz pasa la máquina a una batería de 90 minutos (14) y su voltaje bajo genera una alarma alta (10). Detrás de casi todas hay un factor humano (3)(6).
+
+Como la mayoría de estas causas se pueden detectar antes de empezar, la lista de verificación preoperatoria (Fig. 4) y el montaje cuidadoso de las piezas reducen el riesgo de que una falla llegue al paciente (6). El siguiente paso es encender la máquina con apoyo del docente, repetir las pruebas de fuga y de flujo, y revisar su historial de alarmas para compararlo con el manual impreso del EX-20, claro esta, que los metodos utilizados son deductivos con base en lo observado en la lectura del manual, lo cual es informacion basada en como la maquina funciona perfectamente y como las investigaciones encuentran errores y sus patrones por lo cual no hay seguridad de informacion experimentada, sino unicamente de informacion recopilada. 
 
 # Referencias 
