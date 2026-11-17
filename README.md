@@ -10,7 +10,7 @@ En esta práctica conocimos la máquina de anestesia WATO EX-20 de Mindray que t
 
 <img width="900" height="1600" alt="WhatsApp Image 2026-11-10 at 2 13 01 PM" src="https://github.com/user-attachments/assets/85a96ceb-6402-4f5c-a9d6-d82fcd0c3420" />
 
-Fig1. vista de frente: se ve el letrero WATO EX-20, los flujómetros, las perillas de gases y la pantalla
+**Fig1. vista de frente** *se ve el letrero WATO EX-20, los flujómetros, las perillas de gases y la pantalla*
 
 <img width="900" height="1600" alt="WhatsApp Image 2026-11-10 at 2 13 10 PM" src="https://github.com/user-attachments/assets/9bbdde5e-4a2d-43d9-99b2-52fa82b8a366" />
 
@@ -34,6 +34,19 @@ anestesia.
 
 • Reconocer la relevancia de las labores de mantenimiento aplicadas a una
 máquina de anestesia.
+# Marco Teorico
+
+Una máquina de anestesia mantiene al paciente en una inconsciencia controlada mientras le entrega oxígeno, lo ventila y mezcla los gases anestésicos en la dosis adecuada (1)(2). Por dentro es un conjunto de tuberías y sistemas de bombeo que suministran esa mezcla de forma cuidadosamente controlada (4). Sus partes básicas son el suministro de gases, las válvulas reductoras de presión, los caudalímetros, los vaporizadores, el circuito respiratorio, el ventilador y el sistema de aspiración (19).
+
+La máquina de la práctica, una Mindray WATO EX-20, trabaja con oxígeno, óxido nitroso y aire (9), y tiene soportes para cilindros auxiliares (14). Los caudalímetros regulan cuánto de cada gas pasa hacia el paciente. Los vaporizadores convierten el anestésico líquido en vapor para sumarlo a la mezcla, y este modelo admite hasta dos (14).
+
+El circuito respiratorio lleva la mezcla al paciente y recibe lo que exhala. En el sistema circular el CO2 se retira con un absorbente que se va agotando con el uso (6)(15), y la válvula APL permite aliviar el exceso de presión del circuito (6). Como el circuito tiene muchas conexiones, es una de las zonas donde más se producen fugas (6). El ventilador del EX-20 es de accionamiento neumático y control electrónico, y ofrece los modos manual, por volumen, por presión y SIMV (11).
+
+Para reducir el riesgo, antes de cada uso se revisa la máquina con una lista de verificación (13). Las máquinas modernas hacen además una revisión automática al menos una vez al día y pruebas de fuga entre pacientes (6), y avisan los problemas con alarmas de prioridad alta, media o baja (10).
+
+Los gases que usa la máquina cumplen funciones distintas. El oxígeno es el que mantiene la respiración del paciente, y entregarlo es una de las funciones principales de la máquina (1)(2). El óxido nitroso es un gas en condiciones normales y, además de dar amnesia, calma el dolor. Los agentes volátiles, como el isoflurano, el sevoflurano y el desflurano, son líquidos a temperatura ambiente y por eso necesitan el vaporizador (14)(18). El aire se puede combinar con el oxígeno en la mezcla que llega al paciente (14) y también se puede usar como gas que impulsa el fuelle del ventilador (10). Las entradas del EX-20 aceptan oxígeno, oxígeno con óxido nitroso, u oxígeno con óxido nitroso y aire (14). Los gases que vienen de cilindros auxiliares entran por el sistema de alta presión y pasan por válvulas reductoras antes de llegar a los caudalímetros (14)(19), por eso el manual incluye una prueba de fugas de los cilindros antes de usar la máquina (10).
+
+Como una mezcla mal dosificada pone en riesgo al paciente, las máquinas incorporan varias protecciones. Tienen un flujo mínimo de oxígeno, no dejan que la concentración baje del nivel del aire ambiente y enlazan los controles del óxido nitroso y del oxígeno (6). El EX-20 además mide el oxígeno que sale con un sensor y vigila el flujo con tres sensores (9), y el manual lo avisa con alarmas de prioridad alta si falla el suministro de oxígeno o baja la presión del gas impulsor (10). El botón de oxígeno rápido entrega oxígeno puro a presión sin anestésico, y por eso se usa con cuidado (6).
 
 # Metodología
 
