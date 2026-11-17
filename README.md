@@ -275,3 +275,51 @@ Para ordenar los subsistemas contamos los mensajes de alarma que el anexo D del 
 Según lo que revisamos, las fallas más comunes al operar una máquina de anestesia tienen cuatro causas probables. La primera son las fugas y el montaje del circuito: un recipiente de absorbente sin asegurar, un circuito sin montar, una rama desconectada o un vaporizador mal cerrado (6)(10). La segunda es el suministro y la medición de gas, es decir, un cilindro o una línea de oxígeno que falla, baja presión del gas que mueve el fuelle, sensores de flujo fuera de rango y un sensor de oxígeno sin calibrar (10). La tercera es el desgaste de lo que se consume, como el absorbente de CO2 agotado, que deja pasar CO2 al paciente (6)(15). La cuarta es la energía, porque un corte de luz pasa la máquina a una batería de 90 minutos (14) y su voltaje bajo genera una alarma alta (10). Detrás de casi todas hay un factor humano (3)(6), pero la mayoría de estas causas se pueden detectar antes de empezar, la lista de verificación preoperatoria (Fig. 4) y el montaje cuidadoso de las piezas reducen el riesgo de que una falla llegue al paciente (6). El siguiente paso es encender la máquina con apoyo del docente, repetir las pruebas de fuga y de flujo, y revisar su historial de alarmas para compararlo con el manual impreso del EX-20, claro esta, que los metodos utilizados son deductivos con base en lo observado en la lectura del manual, lo cual es informacion basada en como la maquina funciona perfectamente y como las investigaciones encuentran errores y sus patrones por lo cual no hay seguridad de informacion experimentada, sino unicamente de informacion recopilada. 
 
 # Referencias 
+
+(1) M. P. Dosch, “The Anesthesia Machine,” in Nurse Anesthesia Secrets, M. Karlet, Ed., 1st ed. Philadelphia, PA, USA: Elsevier Health Sciences, 2005.
+
+(2) M. A. Sherwin and J. B. Eisenkraft, “Anesthesia hazards: What is the role of the anesthesia machine?,” Int. Anesthesiol. Clin., vol. 58, no. 1, pp. 27-31, Dec. 2020, doi: 10.1097/AIA.0000000000000264. [Online]. Available: https://doi.org/10.1097/AIA.0000000000000264
+
+(3) R. M. Dondelinger, “Anesthesia machines,” Biomed. Instrum. Technol., vol. 38, no. 6, pp. 445-449, 2004.
+
+(4) I. S. Fischler, C. E. Kaschub, D. E. Lizdas, and S. Lampotang, “Understanding of anesthesia machine function is enhanced with a transparent reality simulation,” Simul. Healthc., vol. 3, no. 1, pp. 26-32, 2008, doi: 10.1097/SIH.0b013e31816366d3. [Online]. Available: https://doi.org/10.1097/SIH.0b013e31816366d3
+
+(5) National Institute of General Medical Sciences (NIGMS), “Anesthesia,” National Institutes of Health, Sept. 2023. [Online]. Available: https://nigms.nih.gov/education/fact-sheets/Pages/anesthesia.aspx
+
+(6) D. B. Horn, Ed., “Anesthesia machine,” in StatPearls. Treasure Island, FL, USA: StatPearls Publishing, Nov. 2022, PMID: 34283426. [Online]. Available: https://www.statpearls.com/point-of-care/130754
+
+(7) S. King and C. Vo, “Anesthesia machines: An overview,” OpenAnesthesia, Mar. 2026. [Online]. Available: https://www.openanesthesia.org/keywords/anesthesia-machines-an-overview/
+
+(8) Mindray, WATO EX-20 Equipo de anestesia: Manual del operador. Mindray, copia impresa de la universidad, sin año.
+
+(9) Mindray, “WATO EX-20 anesthesia machine.” [Online]. Available: https://www.mindray.com/in/products/anesthesia/wato-ex-20/
+
+(10) Mindray, WATO EX-35Vet Anesthesia Machine: Operator’s Manual, Aug. 2019. [Online]. Available: https://eickemeyer.dk/files/data/doc/products/213335/WATO%20EX-35%20Manual%20(Engelsk).pdf
+
+(11) Mindray, “WATO EX-30/20 anesthesia machine: Specifications,” SOMA Tech Intl, rev. Jun. 2020. [Online]. Available: https://www.somatechnology.com/pdfFiles/Mindray-WATO-EX-30-20-anesthesia-machine.pdf
+
+(12) Mindray, WATO EX-35 Anesthesia Machine: Operator’s Manual, 2012-2015. [Online]. Available: https://storage.mtender.gov.md/get/018e1992-c314-4d06-9fb5-b841ebb79e6c-1625498292031
+
+(13) M. P. Dosch and D. Tharp, “The Anesthesia Gas Machine: Machine checklist,” Univ. of Detroit Mercy. [Online]. Available: https://healthprofessions.udmercy.edu/academics/na/agm/11.htm (accessed 17 nov. 2026).
+
+(14) Mindray, WATO EX-30/20 Máquinas de anestesia, folleto. [Online]. Available: https://www.tecnoimagen.com.ar/folleto/HOSPITALARIA/Maquina_Anestesia/Maquina_anestesia_WATO-EX20-30_Mindray.pdf
+
+(15) M. P. Dosch and D. Tharp, “The Anesthesia Gas Machine: Carbon dioxide absorption,” Univ. of Detroit Mercy, rev. Jan. 2024. [Online]. Available: https://healthprofessions.udmercy.edu/academics/na/agm/07.htm
+
+(16) GitHub Docs, “Inviting collaborators to a personal repository.” [Online]. Available: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/inviting-collaborators-to-a-personal-repository (accessed 17 nov. 2026).
+
+(17) GitHub Docs, “Basic writing and formatting syntax.” [Online]. Available: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax (accessed 17 nov. 2026).
+
+(18) StatPearls Publishing, “Inhalational anesthetic,” in StatPearls. Treasure Island, FL, USA: StatPearls Publishing, 2023. [Online]. Available: https://www.ncbi.nlm.nih.gov/books/NBK554540/
+
+(19) StatPearls Publishing, “General anesthesia for surgeons,” in StatPearls. Treasure Island, FL, USA: StatPearls Publishing, 2023. [Online]. Available: https://www.ncbi.nlm.nih.gov/books/NBK493199/
+
+(20) StatPearls Publishing, “Propofol,” in StatPearls. Treasure Island, FL, USA: StatPearls Publishing, 2023. [Online]. Available: https://www.statpearls.com/point-of-care/27816
+
+(21) M. R. Huecker, Ed., “Topical, local, and regional anesthesia and anesthetics,” in StatPearls. Treasure Island, FL, USA: StatPearls Publishing, updated Aug. 28, 2023. [Online]. Available: https://www.ncbi.nlm.nih.gov/books/NBK430894/
+
+(22) S. Amornyotin, “Inhalation and intravenous anesthetic agents: Pros and cons,” Thai J. Anesthesiol., vol. 51, no. 4, pp. 217-221, Jul.-Aug. 2025. [Online]. Available: https://he02.tci-thaijo.org/index.php/anesthai/article/view/276342
+
+(23) Mindray, “WATO EX-35 anesthesia machine: Specifications,” SOMA Tech Intl. [Online]. Available: https://www.somatechnology.com/pdfFiles/Mindray-WATO-EX-35-anesthesia-machine.pdf
+
+(24) Mindray, “WATO EX-35 anesthesia machine.” [Online]. Available: https://www.mindray.com/en/products/anesthesia/wato-ex-35 (accessed 17 nov. 2026).
